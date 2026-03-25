@@ -1,0 +1,9 @@
+# Godot
+.godot/
+*.import
+
+# Test output
+tests/output/
+
+# OS
+.DS_Store
